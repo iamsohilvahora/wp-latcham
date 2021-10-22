@@ -1,0 +1,161 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-05-20 14:11+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-really-simple-xml-and-html-sitemap-admin.php:143
+#: admin/class-really-simple-xml-and-html-sitemap-admin.php:144
+msgid "RSXH Sitemap Settings"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:6
+msgid "Really Simple XML And HTML Sitemap Settings"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:10
+msgid ""
+"To show HTML Sitemap on any posts, pages, just use the shortcode "
+"[rsxh_sitemap]. This will automatically generate a sitemap for all pages, "
+"posts and custom post type (CPT) posts based on your settings from settings "
+"page."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:11
+msgid ""
+"It also generate a XML sitemap which will place on your site root directory "
+"(file name sitemap.xml). XML sitemaps will help search engines like Google, "
+"Yahoo and Ask.com to better index your site."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:13
+msgid "Here is the other following example shortcode:"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:15
+msgid ""
+"[rsxh_sitemap] to display pages,posts and custom post type (CPT) posts "
+"according to the settings from admin area."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:16
+msgid ""
+"[rsxh_sitemap post_types='page, post'] to display both the pages and posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:17
+msgid "[rsxh_sitemap post_types='page'] to display only the pages"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:18
+msgid "[rsxh_sitemap post_types=\"post\"] to display only the posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:19
+msgid ""
+"[wp_sitemap_page post_types='books'] to display only custom post type (CPT) "
+"posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:20
+msgid ""
+"[rsxh_sitemap post_types='page, post' exclude_pages='3,10,...'] to display "
+"both the pages and posts excluding specific pages"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:21
+msgid ""
+"[rsxh_sitemap post_types='page' exclude_pages='3,10,...'] to display only "
+"the pages excluding specific pages"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:22
+msgid ""
+"[rsxh_sitemap exclude_pages='3,10,...'] to display all pages, posts and "
+"custom post type (CPT) posts excluding specific pages"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:23
+msgid ""
+"[rsxh_sitemap exclude_post_and_custom_post_type_posts='15,18,...'] to "
+"display all pages, posts and custom post type (CPT) posts excluding specific "
+"posts and custom post type (CPT) posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:24
+msgid ""
+"[rsxh_sitemap post_types='post' exclude_post_and_custom_post_type_posts='15,"
+"18,...'] to display only the posts excluding specific posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:25
+msgid ""
+"[rsxh_sitemap post_types='facilities' "
+"exclude_post_and_custom_post_type_posts='15,18,...']  to display only "
+"defined post type posts excluding specific post type posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:32
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:33
+#: admin/templates/rsxh-sitemap-settings.php:60
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:59
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:78
+msgid "Exclude post type"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:91
+msgid "Exclude pages"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:93
+msgid "Please enter comma(,) separated page ids here. Ex:15,17,18...."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:98
+msgid "Exclude posts and custom post type posts"
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:100
+msgid ""
+"Please enter comma(,) separated post and custom post type post ids here. Ex:"
+"10,12,20...."
+msgstr ""
+
+#: admin/templates/rsxh-sitemap-settings.php:106
+msgid "Save"
+msgstr ""
+
+#. Name of the plugin
+msgid "Really Simple XML and HTML Sitemap"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"To add Sitemap on any posts, pages, use the shortcode [rsxh_sitemap] and it "
+"also generate a XML Sitemap which will placed on site root directory.This "
+"plugin will improve SEO."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/really-simple-xml-and-html-sitemap"
+msgstr ""
+
+#. Author of the plugin
+msgid "wpArtisan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpartisan.net/"
+msgstr ""

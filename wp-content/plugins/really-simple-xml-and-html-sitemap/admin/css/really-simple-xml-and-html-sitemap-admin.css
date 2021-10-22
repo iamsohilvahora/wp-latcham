@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .exc_pageids input,
+ .exc_postcusids input{
+	 width:50%;
+ }
+ .d-none{
+	 display:none;
+ }
